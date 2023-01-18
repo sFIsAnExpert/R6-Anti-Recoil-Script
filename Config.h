@@ -59,7 +59,7 @@ void initList() {
         keyList.insert({ "W", 0x57 });
         keyList.insert({ "X", 0x58 });
         keyList.insert({ "Y", 0x59 });
-        keyList.insert({ "5A", 0x41 });
+        keyList.insert({ "Z", 0x5A });
         keyList.insert({ "TAB", 0x09 });
         keyList.insert({ "BACKSPACE", 0x08 });
         keyList.insert({ "LSHIFT", 0xA0 });
